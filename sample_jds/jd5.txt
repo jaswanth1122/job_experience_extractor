@@ -1,0 +1,6 @@
+DevOps Engineer
+Qualifications:
+- 4+ years in DevOps or related role
+- Minimum 3 years with CI/CD pipelines
+- At least 2 years experience with Kubernetes
+- AWS/GCP experience required

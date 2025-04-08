@@ -1,0 +1,6 @@
+Senior Backend Developer
+Requirements:
+• 5+ years of professional software development experience
+• At least 3 years working with Java or Python
+• Experience with microservices architecture
+• Minimum 1 year with cloud platforms (AWS preferred)

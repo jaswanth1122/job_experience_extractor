@@ -1,0 +1,6 @@
+Frontend Engineer (React)
+Requirements:
+• 2 to 4 years of frontend development experience
+• At least 1 year with React.js
+• Strong JavaScript/TypeScript skills
+• Experience with responsive design

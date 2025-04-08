@@ -1,0 +1,5 @@
+We're looking for a Data Analyst with 3-5 years of experience in SQL and Python. 
+The ideal candidate should have:
+- Minimum 2 years experience with data visualization tools (Tableau/Power BI)
+- Experience with statistical analysis
+- Strong communication skills
